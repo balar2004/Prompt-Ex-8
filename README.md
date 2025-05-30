@@ -201,6 +201,9 @@ if __name__ == "__main__":
 
 ---
 
+## Output:
+## Prompt:"Good morning! You're listening to Sunrise FM, where the day begins with great music and good vibes. Stay tuned for the weather update and top news headlines coming up next!"
+## Output: https://elevenlabs.io/app/share/zwZK0j7lipK3lGmotamH
 ## 🎼 Specialized Prompting Techniques
 
 ### Emotional Arc Construction
